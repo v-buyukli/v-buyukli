@@ -2,7 +2,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=v-buyukli&label=Profile%20views&color=0e75b6&style=flat" alt="v-buyukli" /> </p>
 <h3>Python Developer</h3>
 
-- ‍💻 I’m currently working on **NATS**
+- ‍💻 I’m currently working on **Nats**
 -  ✉️ How to reach me **vktr.buyukli@gmail.com** <br><br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=v-buyukli&theme=dark&hide_border=false)
