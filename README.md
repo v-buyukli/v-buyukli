@@ -1,48 +1,26 @@
 <h1>Hi 👋, I'm Viktor</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=v-buyukli&label=Profile%20views&color=0e75b6&style=flat" alt="v-buyukli" /> </p>
+
 <h3>Python Developer</h3>
 
-- ‍💻 I’m currently working on **Nats**
--  ✉️ How to reach me **vktr.buyukli@gmail.com** <br><br>
+✉️ How to reach me  
+**vktr.buyukli@gmail.com** <br><br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=v-buyukli&theme=dark&hide_border=false)
 
-<h3>Tools and Technologies:</h3>
+<h3>Skills & Technologies:</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
-![CI/CD (GitHub Actions)](https://img.shields.io/badge/CI%2FCD-03599C?style=flat-square&logo=github-actions&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=green)
-![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime-FF9800?style=flat-square&logo=sublime-text&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![DockerCompose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-DA5B6F?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-DA5B6F?style=flat-square&logo=alembic&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-377EB8?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-FF4F00?style=flat-square&logo=celery&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/AmazonS3-232F3E?style=flat-square&logo=amazon-s3&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) 
-![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-<br><br><br>
+- **Programming & Frameworks**: Python, FastAPI, Django, Django REST Framework
+- **ORM & Migrations**: Django ORM, SQLAlchemy, Alembic
+- **Asynchronous & Validation**: Asyncio, Celery, Pydantic
+- **Databases**: PostgreSQL, SQLite, MariaDB, ScyllaDB, Redis
+- **Cloud & Storage**: Heroku, OVH, DigitalOcean, Amazon S3
+- **OS & Containerization**: Linux, Bash, Docker, Docker Compose 
+- **Version Control & IDEs**: GitHub, GitLab, PyCharm, Jupyter Notebook
+- **Data Analysis & Machine Learning**: Pandas, Scikit-learn, Matplotlib
+- **Testing & API Documentation**: Unittest, PyTest, Swagger, Postman
+- **APIs**: REST API, Binance API, Bybit API, Telegram API
+- **Project Management & Collaboration**: Trello, Confluence, Jira, Slack
+
+<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=v-buyukli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
