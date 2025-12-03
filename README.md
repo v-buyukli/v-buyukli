@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Viktor</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=v-buyukli&label=Profile%20views&color=0e75b6&style=flat" alt="v-buyukli" /> </p>
 
-<h3>Python Developer</h3>
+<h3>Python Engineer</h3>
 
 ✉️ How to reach me  
 **vktr.buyukli@gmail.com** <br><br>
