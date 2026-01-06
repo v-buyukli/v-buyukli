@@ -6,7 +6,7 @@
 ✉️ How to reach me  
 **vktr.buyukli@gmail.com** <br><br>
 
-![](https://github-readme-stats.vercel.app/api?username=v-buyukli&show_icons=true&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=v-buyukli&theme=dark&hide_border=false)
 
 <h3>Skills & Technologies:</h3>
 
