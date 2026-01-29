@@ -13,7 +13,7 @@
 - **Databases**: PostgreSQL, SQLite, MariaDB, ScyllaDB, Redis
 - **ORM & Migrations**: Django ORM, SQLAlchemy, Alembic
 - **APIs & Integrations**: REST API, Binance API, Bybit API, Telegram API
-- **Background Tasks & Validation**: Asyncio, Celery, Pydantic
+- **Background Tasks & Validation**: Asyncio, Celery, Celery Beat, Pydantic
 - **DevOps & Cloud**: Docker, Docker Compose, Linux, Bash, CI/CD, Heroku, DigitalOcean, S3
 - **Testing & Documentation**: PyTest, Unittest, Faker, Swagger, Postman
 - **Data Analysis & ML**: Pandas, Scikit-learn, Matplotlib, Jupyter Notebook
