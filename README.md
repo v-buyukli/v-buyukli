@@ -18,7 +18,6 @@
 - **Testing & Documentation**: PyTest, Unittest, Faker, Swagger, Postman
 - **Data Analysis & ML**: Pandas, Scikit-learn, Matplotlib, Jupyter Notebook
 - **Version Control & IDEs**: Git, GitHub, GitLab, PyCharm
-- **Project Management & Collaboration**: Jira, Confluence, Notion, Trello, Slack
+- **Project Management & Collaboration**: Jira, Confluence, Notion, Trello, Slack <br><br>
 
-<br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=v-buyukli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=v-buyukli&layout=compact&theme=dark)
